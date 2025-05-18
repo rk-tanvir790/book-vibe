@@ -6,3 +6,8 @@
   --font-worksans: "Work Sans", sans-serif;
   --font-display: "Playfair Display", serif;
 }
+
+a.active{
+  color: #23BE0A;
+  border-color: #23BE0A;
+}
